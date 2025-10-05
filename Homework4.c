@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <locale.h>
 
-main() {
+int main() {
 
 	setlocale(LC_ALL, "RU");
 
@@ -11,5 +11,6 @@ main() {
 	scanf("%d %d", &A, &B);
 	condition = ((A % 2 == 1) && (B % 2 != 1)) || ((A % 2 != 1) && (B % 2 == 1));
 	printf("Поворот налево? (1 - да, 0 - нет): %d", condition);
+
 
 }
