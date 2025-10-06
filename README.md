@@ -17,7 +17,7 @@
 
 ### Блок-схема
 
- [<img width="380" height="1254" alt="image" src="https://github.com/user-attachments/assets/7b98448c-4de5-457c-8803-6b326f07b3a9" />](lab_2_schema.png)
+ [<img width="539" height="883" alt="image" src="https://github.com/user-attachments/assets/f8845d6e-7ba3-4dc7-8eeb-d3fa0cd058a1" />](lab_4_schema.png)
 
 
 ## 2. Реализация программы
